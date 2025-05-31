@@ -52,9 +52,10 @@ I'm a Computer Science undergraduate with a strong foundation in programming, da
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.png" alt="Git Logo" height="50" />
   <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="GitHub Logo" height="50" />
   <img src="https://kiran-parte.github.io/aiforall/assets/images/blog/jupyter.jpg" alt="Jupyter Logo" height="50" />
-  <img src="https://assets.stickpng.com/images/62a79050e42d729d928b1756.png" alt="VS Code Logo" height="50" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" height="50" />
 </p>
 
+### 📚 Other  
 <p align="left">
   <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png" alt="REST API" height="50" />
   <img src="https://logodix.com/logo/1760613.png" alt="Agile" height="50" />
