@@ -42,24 +42,23 @@ I'm a Computer Science undergraduate with a strong foundation in programming, da
 ### 📝 Languages  
 <p align="left">
   <img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" width="80" />
-  <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java Logo" width="80" />
+  <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java Logo" width="100" />
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL Logo" width="80" />
 </p>
 
 ### 🧪 Frameworks & Tools  
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<p align="left">
+  <img src="https://hellocoding.de/images/category/python/fastapi/fast-api-logo.jpeg" alt="FastAPI Logo" height="50" />
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.png" alt="Git Logo" height="50" />
+  <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="GitHub Logo" height="50" />
+  <img src="https://kiran-parte.github.io/aiforall/assets/images/blog/jupyter.jpg" alt="Jupyter Logo" height="50" />
+  <img src="https://assets.stickpng.com/images/62a79050e42d729d928b1756.png" alt="VS Code Logo" height="50" />
 </p>
 
-### 📚 Other  
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white" />
-  <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=codeforces&logoColor=white" />
+<p align="left">
+  <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png" alt="REST API" height="50" />
+  <img src="https://logodix.com/logo/1760613.png" alt="Agile" height="50" />
+  <img src="https://tse2.mm.bing.net/th?id=OIP.oPZXQ6A50JJnPR6qKr6ngQHaH8&pid=Api&P=0&h=180" alt="OOP" height="50" />
 </p>
 
 ---
