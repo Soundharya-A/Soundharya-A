@@ -20,9 +20,9 @@ I'm a passionate Software Developer with a strong foundation in computer science
 
 ### 📝 Languages  
 <p align="left">
-  <img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" width="80" />
-  <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java Logo" width="105" />
-  <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL Logo" width="80" />
+  <img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" width="50" />
+  <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java Logo" width="85" />
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL Logo" width="50" />
 </p>
 
 ### 🧪 Frameworks & Tools  
