@@ -45,16 +45,14 @@ I'm a passionate Software Developer with a strong foundation in computer science
 
 ## 🌐 Let’s Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/soundharya-a-236104312/">
-    <img src="https://i.pinimg.com/originals/c0/44/d1/c044d19025e6939e49af34610e2694d7.png" alt="LinkedIn Logo" width="80" />
+<a href="https://www.linkedin.com/in/soundharya-a-236104312/">
+    <img src="https://1000logos.net/wp-content/uploads/2017/03/Linkedin-Logo.png" alt="LinkedIn Logo" width="80" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:avsoundharya@gmail.com">
     <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Emblem.png" alt="Gmail Logo" width="80" />
   </a>
 </p>
-
 
 ---
 
