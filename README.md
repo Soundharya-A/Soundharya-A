@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Soundharya]
+# 👋 Hi, I'm Soundharya
 
 🎓 Aspiring Software Engineer | Computer Science Student | Passionate About Building Real-World Solutions
 
@@ -8,53 +8,59 @@
 
 I'm a Computer Science undergraduate with a strong foundation in programming, data structures, and software development. I’m passionate about building impactful software and continuously enhancing my technical skill set through personal projects, coursework, and collaboration.
 
-- 🎓 **Education:** B.Tech in Computer Science Engineering | [SASTRA University] | Graduation: [2025]
+- 🎓 **Education:** B.Tech in Computer Science Engineering | SASTRA University | Graduation: 2025
 - 🛠️ **Interests:** Software Engineering • SQL • Algorithms • Machine Learning
-- 🌱 **Currently Learning:** [e.g., TypeScript, Docker, System Design Principles]
+- 🌱 **Currently Learning:**  Docker, Kubernetes
 - 💼 **Open to:** Full-Time Roles | Internships | Research Opportunities | Collaborative Projects
-- 📫 **Reach Me At:** [avsoundharya@gmail.com] | [LinkedIn]((https://www.linkedin.com/in/soundharya-a-236104312/))
-
----
-
-## 🧰 Technical Skills
-
-**Languages:**  
-Python • Java • SQL   
-
-**Frameworks & Tools:**  
-FastAPI • Git & GitHub • Jupyter Notebook • Visual Studio Code  
-
-**Other:**  
-REST APIs • Agile Development • OOP & Design Patterns
+- 📫 **Reach Me At:** [avsoundharya@gmail.com] | [LinkedIn](https://www.linkedin.com/in/soundharya-a-236104312/)
 
 ---
 
 ## 🧰 Technical Skills
 
 ### 📝 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧪 Frameworks & Tools  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### 📚 Other  
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat&logo=api&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0277BD?style=flat&logo=scrumalliance&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=flat&logo=codeforces&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design%20Patterns-0091EA?style=flat&logo=abstract&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=codeforces&logoColor=white)
 
 ---
 
-## 📊 GitHub Insights
+## 🧰 Technical Skills
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=prs&count_private=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+### 📝 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🧪 Frameworks & Tools  
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+### 📚 Other  
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
 
 ---
 
@@ -62,7 +68,6 @@ REST APIs • Agile Development • OOP & Design Patterns
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundharya-a-236104312/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avsoundharya@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white)](https://yourportfolio.com)
 
 ---
 
