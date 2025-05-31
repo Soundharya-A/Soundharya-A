@@ -21,7 +21,7 @@ I'm a passionate Software Developer with a strong foundation in computer science
 ### 📝 Languages  
 <p align="left">
   <img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" height="50" />
-  <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" alt="Java Logo" height="50" style="margin-right: 105px;" />
+  <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" alt="Java Logo" height="50" /> &nbsp;
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL Logo" height="50" />
 </p>
 
