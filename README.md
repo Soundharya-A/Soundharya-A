@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Soundharya
 
-🎓 Aspiring Software Engineer | Computer Science Student | Passionate About Building Real-World Solutions
+🎓 Aspiring Software Engineer | Computer Science Graduate | Passionate About Building Real-World Solutions
 
 ---
 
-## 🧭 About Me
+## 🚀 About Me
 
 I'm a passionate Software Developer with a strong foundation in computer science, specializing in building efficient and scalable applications. Proficient in multiple programming languages, frameworks, and tools, I thrive in solving complex problems and delivering innovative solutions.
 
@@ -18,14 +18,14 @@ I'm a passionate Software Developer with a strong foundation in computer science
 
 ## 🛠 Technical Skills
 
-### 📝 Languages  
+### 💻 Languages  
 <p align="left">
   <img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" height="50" />
   <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" alt="Java Logo" height="50" /> &nbsp;&nbsp;
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL Logo" height="50" />
 </p>
 
-### 🧪 Frameworks & Tools  
+### 🔧 Frameworks & Tools  
 <p align="left">
   <img src="https://hellocoding.de/images/category/python/fastapi/fast-api-logo.jpeg" alt="FastAPI Logo" height="50" />
   <img src="https://1000logos.net/wp-content/uploads/2020/08/Git-Logo.png" alt="Git Logo" height="50" />
@@ -34,7 +34,7 @@ I'm a passionate Software Developer with a strong foundation in computer science
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS Code Logo" height="45" />
 </p>
 
-### 📚 Other  
+### 🔗 Other  
 <p align="left">
   <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png" alt="REST API" height="50" style="margin-right: 25px;" />
   <img src="https://logodix.com/logo/1760613.png" alt="Agile" height="50" style="margin-right: 25px;" />
@@ -45,10 +45,16 @@ I'm a passionate Software Developer with a strong foundation in computer science
 
 ## 🌐 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundharya-a-236104312/)
-<a href="mailto:avsoundharya@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/soundharya-a-236104312/">
+    <img src="https://i.pinimg.com/originals/c0/44/d1/c044d19025e6939e49af34610e2694d7.png" alt="LinkedIn Logo" width="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:avsoundharya@gmail.com">
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Gmail-Emblem.png" alt="Gmail Logo" width="80" />
+  </a>
+</p>
+
 
 ---
 
