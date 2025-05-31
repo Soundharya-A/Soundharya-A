@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Developer with a strong foundation in computer science, specializing in building efficient and scalable applications. Proficient in multiple programming languages, frameworks, and tools, I thrive in solving complex problems and delivering innovative solutions.
+I'm a passionate Software Developer with a strong foundation in computer science, specializing in building efficient and scalable applications. Proficient in multiple programming languages, frameworks, and tools. I thrive in solving complex problems and delivering innovative solutions.
 
 - 🎓 **Education:** B.Tech in Computer Science Engineering | SASTRA University | Graduation: 2025
 - 🛠️ **Interests:** Software Engineering • SQL • Algorithms • Machine Learning
