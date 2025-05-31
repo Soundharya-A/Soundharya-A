@@ -40,10 +40,10 @@ I'm a Computer Science undergraduate with a strong foundation in programming, da
 ## 🧰 Technical Skills
 
 ### 📝 Languages  
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<p align="left">
+  <img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" width="80" />
+  <img src="https://download.logo.wine/logo/Java_(programming_language)/Java_(programming_language)-Logo.wine.png" alt="Java Logo" width="80" />
+  <img src="https://pngimg.com/uploads/mysql/mysql_PNG1.png" alt="MySQL Logo" width="80" />
 </p>
 
 ### 🧪 Frameworks & Tools  
