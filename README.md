@@ -6,7 +6,7 @@
 
 ## 🧭 About Me
 
-I'm a Computer Science undergraduate with a strong foundation in programming, data structures, and software development. I’m passionate about building impactful software and continuously enhancing my technical skill set through personal projects, coursework, and collaboration.
+I'm a passionate Software Developer with a strong foundation in computer science, specializing in building efficient and scalable applications. Proficient in multiple programming languages, frameworks, and tools, I thrive in solving complex problems and delivering innovative solutions.
 
 - 🎓 **Education:** B.Tech in Computer Science Engineering | SASTRA University | Graduation: 2025
 - 🛠️ **Interests:** Software Engineering • SQL • Algorithms • Machine Learning
@@ -16,28 +16,7 @@ I'm a Computer Science undergraduate with a strong foundation in programming, da
 
 ---
 
-## 🧰 Technical Skills
-
-### 📝 Languages  
-<img src="https://uploads.sitepoint.com/wp-content/uploads/2022/10/1665705578python-logo.png" alt="Python Logo" width="80"/>
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧪 Frameworks & Tools  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 📚 Other  
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=codeforces&logoColor=white)
-
----
-
-## 🧰 Technical Skills
+## 🛠 Technical Skills
 
 ### 📝 Languages  
 <p align="left">
@@ -57,9 +36,9 @@ I'm a Computer Science undergraduate with a strong foundation in programming, da
 
 ### 📚 Other  
 <p align="left">
-  <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png" alt="REST API" height="50" />
-  <img src="https://logodix.com/logo/1760613.png" alt="Agile" height="50" />
-  <img src="https://tse2.mm.bing.net/th?id=OIP.oPZXQ6A50JJnPR6qKr6ngQHaH8&pid=Api&P=0&h=180" alt="OOP" height="50" />
+  <img src="https://d12m9erqbesehq.cloudfront.net/wp-content/uploads/2016/04/30152042/event-smart-rest-api.png" alt="REST API" height="50" style="margin-right: 15px;" />
+  <img src="https://logodix.com/logo/1760613.png" alt="Agile" height="50" style="margin-right: 15px;" />
+  <img src="https://tse2.mm.bing.net/th?id=OIP.oPZXQ6A50JJnPR6qKr6ngQHaH8&pid=Api&P=0&h=180" alt="OOP" height="50" style="margin-right: 15px;" />
 </p>
 
 ---
@@ -67,7 +46,9 @@ I'm a Computer Science undergraduate with a strong foundation in programming, da
 ## 🌐 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soundharya-a-236104312/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:avsoundharya@gmail.com)
+<a href="mailto:avsoundharya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge">
+</a>
 
 ---
 
