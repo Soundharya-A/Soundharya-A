@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Soundharya
 
-🎓 Aspiring Software Engineer | Computer Science Graduate | Passionate About Building Real-World Solutions
+🎓 Software Engineer | Computer Science Graduate | Passionate About Building Real-World Solutions
 
 ---
 
